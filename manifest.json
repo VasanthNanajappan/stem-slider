@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Volume Booster",
-  "version": "1.0",
-  "description": "Boost the volume of any tab up to 600%.",
+  "version": "1.1",
+  "description": "Boost tab volume up to 600% and shift the balance between voice and music.",
   "permissions": ["tabCapture", "offscreen"],
   "action": {
     "default_popup": "popup.html",
