@@ -1,0 +1,23 @@
+# Python
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# My voice recordings (private)
+samples/
+*.wav
+
+# Model weights and caches
+*.nemo
+*.bin
+*.safetensors
+*.ckpt
+.cache/
+hf_cache/
+
+# Editor and OS files
+.vscode/
+Thumbs.db
+.env
